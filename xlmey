@@ -179,5 +179,4 @@ echo $CELESTIA_VALOPER
 echo 'export CELESTIA_VALOPER='${CELESTIA_VALOPER} >> $HOME/.bash_profile 
 source $HOME/.bash_profile
 
---------------------------------------------
-با لینک https://discord.gg/celestiacommunity وارد دیسکورد پروژه بشید و به بخش mamaki faucet  برید و به شکل زیر ادرس خودتون رو وارد کنید و درخواست فاست شبکه رو بدید
+-------------------------------------------
