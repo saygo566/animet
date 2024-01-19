@@ -154,5 +154,3 @@ sudo systemctl restart celestia-appd && journalctl -u celestia-appd -f -o cat
 
 -------------------------------------------------
 CTRL+C را فشار دهید تا لاگ ها متوقف شوند
-
--------------------------------
