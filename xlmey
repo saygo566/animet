@@ -142,5 +142,4 @@ cd $HOME
 rm -rf ~/.celestia-app/data
 mkdir -p ~/.celestia-app/data
 SNAP_NAME=$(curl -s https://snaps.qubelabs.io/celestia/ | \
-    egrep -o ">mamaki.*tar" | tr -d ">")
-wget 
+    egrep -o ">mamaki.*tar" 
