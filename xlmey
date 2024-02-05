@@ -139,5 +139,4 @@ sudo systemctl stop celestia-appd
 --------------------------------------------------------------
 
 cd $HOME
-rm -rf ~/.celestia-app/data
-mkdir -p ~/.celestia-app
+rm -rf ~/.celestia-app/
