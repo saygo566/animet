@@ -139,4 +139,3 @@ sudo systemctl stop celestia-appd
 --------------------------------------------------------------
 
 cd $HOME
-rm -rf ~/.celestia-app/
